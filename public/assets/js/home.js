@@ -6,20 +6,13 @@ var erudaScript;
 
 /*
 const splash = [
-	"shuttle is so hot",
-	"Go ahead, browse your ex's social media profiles.",
-	"We take your online privacy as seriously as your ex takes stalking your social media profiles.",
-	"Check our our github.",
+	"kelvin is so hot",
+	"welp.",
+	"go take a shit.",
+	"do you like 648k or kelvin.",
 	"Shhh... we won't tell anyone you're here.",
-	"Join our discord for more links.",
-	"Imagine not using shuttle",
-	"No website is out of your reach now.",
-	"Your online freedom, our promise.",
-	"Because a blocked internet, is no internet at all.",
-	"Site blocked? Not on our watch!",
-	"What site r u going on.",
-	"Now 99% less skiddy... wait who put that there??? :<",
-	"try shittle toilet services"
+	"Zephyrite.",
+	"Zephyrite",
 ];
 
 window.addEventListener("load", () => {
