@@ -1,7 +1,7 @@
 {
-  "name": "shuttle",
-  "version": "3.0.0",
-  "description": "Experience the global internet using Shuttle, the swiftest and most uncluttered proxy solution. Relish a heightened level of privacy during your online sessions, free from censorship.",
+  "name": "Zephyrite",
+  "version": "1.0.0",
+  "description": "Its new ig",
   "type": "module",
   "scripts": {
     "start": "node index.js"
@@ -11,11 +11,11 @@
     "url": "git+https://github.com/shuttlenetwork/shuttle"
   },
   "keywords": [
-    "proxy"
+    "648k, Kelvin's Arcade, kelvin, unblocked games, games, slope, youtube, github, ig, porn, web, xxx, sophie rain, deadass, tralalero tralala, i luv 648k, i luv kelvin, i luv you, dogs , cat , animals ,, dodge, shuttle, luminate, ultima, ataros."
   ],
-  "author": "",
+  "author": "648k/Kelvin",
   "license": " GPL-3.0-or-later",
-  "homepage": "https://shuttleproxy.com",
+  "homepage": "https://crimsonhosting.com",
   "dependencies": {
     "@nebula-services/dynamic": "^0.7.2-patch.2",
     "@titaniumnetwork-dev/ultraviolet": "^2.0.0",
