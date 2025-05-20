@@ -16,7 +16,7 @@ aiptag.cmd.player.push(function() {
 		AD_WIDTH: 960,
 		AD_HEIGHT: 540,
 		AD_DISPLAY: 'fullscreen', //default, fullscreen, fill, center, modal-center
-		LOADING_TEXT: 'Loading Shuttle AD',
+		LOADING_TEXT: 'Loading Zephyrite AD',
 		PREROLL_ELEM: function(){return document.getElementById('videoad')},
 		AIP_COMPLETE: function (state)  {
 			/*******************
@@ -35,7 +35,7 @@ aiptag.cmd.player.push(function() {
 frame.addEventListener("load", () => msg.innerText = frame.contentDocument.title);
 
 function searchurl(url) {
-	switch (localStorage.getItem("shuttle||search")) {
+	switch (localStorage.getItem("Zephyrite||search")) {
 		case "ddg":
 			proxy(`https://duckduckgo.com/?q=${url}`)
 			break;
